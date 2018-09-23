@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>no.ntnu.datakomm</groupId>
-    <artifactId>ChatClient-project-01</artifactId>
+    <artifactId>ChatClient-project-02</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>ChatClient-project-01</name>
+    <name>ChatClient-project-02</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
