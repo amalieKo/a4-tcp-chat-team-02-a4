@@ -1,7 +1,5 @@
 package no.ntnu.datakomm.gui;
 
-//Tester endringer. Hallo. Hallo
-
 import java.net.URL;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
